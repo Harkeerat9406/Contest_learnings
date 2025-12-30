@@ -1,4 +1,4 @@
-/*Minimum Number of Operations to Have Distinct Elements 
+/*MINIMUM NUMBER OF OPERATIONS TO HAVE DISTINCT ELEMENTS
 You are given an integer array nums.
 
 In one operation, you remove the first three elements of the current array. If there are fewer than three 
